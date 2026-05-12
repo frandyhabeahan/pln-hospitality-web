@@ -386,7 +386,7 @@ export default function PLNHospitalityWebsite() {
             <div>
               <h4 className="font-bold mb-6">Kontak</h4>
               <ul className="text-slate-400 space-y-3 text-sm">
-                <li>WhatsApp: 08116221288</li>
+                <li>WhatsApp: 085270300579</li>
                 <li>Email: partnership@pln.co.id</li>
                 <li>PLN Mobile Available</li>
               </ul>
