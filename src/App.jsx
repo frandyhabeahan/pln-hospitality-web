@@ -59,7 +59,7 @@ export default function PLNHospitalityWebsite() {
       });
 
       if (response.ok) {
-        alert("Data berhasil dicatat ke Google Sheets!");
+        alert("Permintaan anda terkirim!");
         setFormData({
           nama: '', telepon: '', lokasi: '', daya: '',
           idPelanggan: '', dayaExisting: '', dayaDimohon: '', keterangan: ''
