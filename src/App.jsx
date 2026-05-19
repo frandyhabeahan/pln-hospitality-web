@@ -255,7 +255,7 @@ export default function PLNHospitalityWebsite() {
           <div className="flex justify-between items-end mb-12">
             <div>
               <h4 className="text-blue-600 font-bold mb-2">Hotel Mitra PLN</h4>
-              <h2 className="text-4xl font-bold text-blue-900">Menginap Nyaman, Charging Lebih Hemat</h2>
+              <h2 className="text-4xl font-bold text-blue-900">Menginap Nyaman, Charging Lebih Tenang</h2>
             </div>
             <button className="bg-blue-900 text-white px-6 py-3 rounded-xl font-bold">Lihat Semua Hotel</button>
           </div>
