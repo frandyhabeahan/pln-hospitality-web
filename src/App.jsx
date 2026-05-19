@@ -355,7 +355,7 @@ export default function PLNHospitalityWebsite() {
               <h2 className="text-4xl font-black mb-4 leading-tight">Konsultasi Partnership SPKLU</h2>
               <p className="text-slate-500 mb-8">Bangun SPKLU di lokasi hotel Anda dan dapatkan potensi revenue tambahan dari ekosistem kendaraan listrik.</p>
               <div className="flex gap-4">
-                <a href="https://wa.me/6285270300579" target="_blank" rel="noreferrer" className="bg-green-600 text-white px-6 py-4 rounded-xl font-bold">WhatsApp 085270300579</a>
+                <a href="https://wa.me/6282298565183" target="_blank" rel="noreferrer" className="bg-green-600 text-white px-6 py-4 rounded-xl font-bold">WhatsApp 082298565183</a>
                 <button onClick={openPLNMobile} className="bg-blue-900 text-white px-6 py-4 rounded-xl font-bold">Download PLN Mobile</button>
               </div>
             </div>
@@ -386,7 +386,7 @@ export default function PLNHospitalityWebsite() {
             <div>
               <h4 className="font-bold mb-6">Kontak</h4>
               <ul className="text-slate-400 space-y-3 text-sm">
-                <li>WhatsApp: 085270300579</li>
+                <li>WhatsApp: 082298565183</li>
                 <li>Email: partnership@pln.co.id</li>
                 <li>PLN Mobile Available</li>
               </ul>
